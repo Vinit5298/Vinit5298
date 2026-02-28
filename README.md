@@ -68,6 +68,3 @@ Distributed Spark processing of nested JSON, Parquet optimization, Redshift anal
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vinit-gatt-750a331b3 
 - 📧 Email: vinitgatt9@gmail.com
-
-- 💼 LinkedIn: (Add your link here)
-- 📧 Email: (Professional email)
