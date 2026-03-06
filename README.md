@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinit</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafting+Data+Infrastructures+for+the+Future;Let's+Connect!;Big+Data+Engineer;Spark+|+Kafka+|+Hadoop+Specialist;Streaming+and+Batch+Pipelines;Cloud+Data+Architect;AI+and+ML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Let's+Connect!;Big+Data+Engineer;Spark+|+Kafka+|+Hadoop+Specialist;Streaming+and+Batch+Pipelines;Cloud+Data+Architect;AI+and+ML+Explorer" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Cloud Data Engineer | Lakehouse Architect | Big Data Enthusiast</h3>
